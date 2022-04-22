@@ -1,8 +1,8 @@
 # gulp-scss-starter
 
-![License](https://img.shields.io/github/license/andreyalexeich/gulp-scss-starter)
-![GitHub stars](https://img.shields.io/github/stars/andreyalexeich/gulp-scss-starter.svg?style=social)
-![GitHub watchers](https://img.shields.io/github/watchers/andreyalexeich/gulp-scss-starter.svg?style=social)<br>
+![License](https://img.shields.io/github/license/MykhalV/gulp-scss-starter)
+![GitHub stars](https://img.shields.io/github/stars/MykhalV/gulp-scss-starter.svg?style=social)
+![GitHub watchers](https://img.shields.io/github/watchers/MykhalV/gulp-scss-starter.svg?style=social)<br>
 <a href="https://qiwi.com/n/ANDREYALEXEICH"><img src="https://img.shields.io/badge/%D0%97%D0%B0%D0%B4%D0%BE%D0%BD%D0%B0%D1%82%D1%8C%20%D0%BD%D0%B0%20%D0%BF%D0%B8%D0%B2%D0%BE-Qiwi-orange?style=for-the-badge&logo=qiwi"></a>
 
 
@@ -21,7 +21,7 @@
     * [Yarn](https://yarnpkg.com/getting-started): ```npm i -g yarn```
     * [Gulp](https://gulpjs.com/): ```npm i -g gulp```
     * [Bem Tools](https://www.npmjs.com/package/bem-tools-core): ```npm i -g bem-tools-core```
-* скачайте сборку с помощью [Git](https://git-scm.com/downloads): ```git clone https://github.com/andreyalexeich/gulp-scss-starter.git```
+* скачайте сборку с помощью [Git](https://git-scm.com/downloads): ```git clone https://github.com/MykhalV/gulp-scss-starter.git```
 * перейдите в скачанную папку со сборкой: ```cd gulp-scss-starter```
 * введите ```yarn set version berry```
 * скачайте необходимые зависимости: ```yarn```
